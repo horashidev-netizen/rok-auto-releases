@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "🚀 Bản cập nhật đầu tiên! Test thành công luồng Auto Update trên Mac.",
+  "pub_date": "2026-08-30T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTVVVXk2ZTk4VFpPL1hVY21VUGE0RnlvRXBkL0tPYWxTWTFoNjE1Vkc5clVkNytGbmlWdnFNOGFqTU5NQUJLSXlTN2kvbGpTN205d2hxY25rV1ZYblNBRjU5djd0ZWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDI5OTI2CWZpbGU6cm9rLWFwcC5hcHAudGFyLmd6CmpaamFocDcwclZwdjFZNkVrRG42d010Rm54aFhxYllBaDc0SC90VXorWUVYbFozNzRjQkZFeXV2dWJwbTdCM2pnUksxVTh4VTY1V2pMdTRMV2hqWEN3PT0K",
+      "url": "https://github.com/horashidev-netizen/rok-auto-releases/releases/download/v0.1.1/rok-app.app.tar.gz"
+    }
+  }
+}
