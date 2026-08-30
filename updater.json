@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.3",
   "notes": "🚀 Bản cập nhật đầu tiên! Test thành công luồng Auto Update trên Mac.",
   "pub_date": "2026-08-30T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZTByMDRrd0JIclAydW9wV0V0eTBpL3JNL0FNQWFBWnJTVm1UZnZqV3UzSlJkNVV3ZlJGcCs5VUtBdXJrVDBYTVdLV2JhMENqL2pNZ0VXUG01amh2NW5FN0tBT083UFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDU0NDI0CWZpbGU6cm9rLWFwcC5hcHAudGFyLmd6CnRjY2NBeENaL0h6eTc5WDluWVRaV29DSWJjWFRKK1BPUHhoQmNJU2JsQlR0eGpkaFNsS09QaCtXUkhxM3o3QTk3bXlpZTZDaHIvUWVzSzNHQ2xlOUJnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZTByMDRrd0JIck9PRU5XV0tEZDZTOER3NG5TU3JVQXloTk9xS3JiVjRJUWw5a2g5bnBUejhKS1d3aTFrWEl6ZUZXaVFoeStpSS9LTUtOTzF1Q1BwdDlPanBhK0pidFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDU1NjQ0CWZpbGU6cm9rLWFwcC5hcHAudGFyLmd6CkpKbjFSdkRwbDhET1JadGpvYldkS3hPNWZ3RlNTQUthOUZkM1E5YnNtTzAvQWJJYzhES2w0VEpGTlVNWHlaS25MZzZLbzFNNXQwNHhsZnR2YmU5bUFBPT0K",
       "url": "https://github.com/horashidev-netizen/rok-auto-releases/releases/download/v0.1.1/rok-app.app.tar.gz"
     }
   }
