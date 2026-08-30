@@ -1,10 +1,10 @@
 {
   "version": "0.1.3",
-  "notes": "🚀 Bản cập nhật v0.1.1! Fix triệt để lỗi chữ ký trên Mac.",
+  "notes": "🚀 Bản cập nhật v0.1.3! thêm logo icon cho ứng dụng.",
   "pub_date": "2026-08-30T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZTByMDRrd0JIckxzc3RlVEpvc0lVb1NTVzE5bnZDQU5MeURUV3ErZVNyZjNrZVJ1VHpGSzhmbXFQcUtNZlM1TzZhZFAvT2VxUHRSVUt3T0VweTFZV0dRaTBVWkhDUkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDU3MjY1CWZpbGU6cm9rLWFwcC5hcHAudGFyLmd6CklOSERVYUI1TGdlRzhOMXJwZEdkbGJseDBXRjh2bFNjVHZ5ZW4xcGF3QWhhY0pia0l0YzhITkNjcmplNTd3YmNQOGtWZkJnMGk1eGdQSnozTFVOTEJnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZTByMDRrd0JIckpoK1VyVi9QWkdtOXhybVdiOVYzK1VqUUZRaE1BTEpPcnh5MDJLcEU3aVFDMk1kU0pxN0pEV0VyV1ZKV29HKytuTFJpTlNuS3NuUm5lNFhtVzFNREFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDY4NzIwCWZpbGU6cm9rLWFwcC5hcHAudGFyLmd6ClFoeERINXYxMEw3S1YzZW9wdFZxK0J4TmhVaXlTeklnaW9lWjk3TzVGK0NnVmZVOGVoaG5oN2I3Z25tSkFNcVAzbHViSjlzdWIvaThnL0gyNGJDTEFRPT0K",
       "url": "https://github.com/horashidev-netizen/rok-auto-releases/releases/download/v0.1.3/rok-app.app.tar.gz"
     }
   }
