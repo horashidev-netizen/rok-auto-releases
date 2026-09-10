@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Bản cập nhật v0.1.5! Fix triệt để lỗi và thêm vài tính năng trên Mac.",
-  "pub_date": "2026-08-30T00:00:00Z",
+  "version": "0.1.6",
+  "notes": "🚀 Bản cập nhật v0.1.6! Update with windows support.",
+  "pub_date": "2026-09-10T12:00:00Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZTByMDRrd0JIckNXSEplUVhEZUlXUXoxMEpVcFVTVVdCc1EyY0NmMmZzNGIzT1laK1Fhd3M2ZDI5T2xMNzQ2bnhFOHJob1pWYy9Zc0ZFSjVkbVd2ZU9DQWJ5K2hKd1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzI4ODcwCWZpbGU6cm9rLWFwcC5hcHAudGFyLmd6CmYzTzQvQWRrcW9hM3JOUVBsY0IzcS9yM2tWMzQvUElPM0JsZ0RDOFhWUGtQcGlvZlExQXN0dU5hNkZjQVFkSUwwRXZRSEZPZmFMTUsyTHYxN3Q1UUJBPT0K",
-      "url": "https://github.com/horashidev-netizen/rok-auto-releases/releases/download/v0.1.5/rok-app.app.tar.gz"
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNDdYUEk2U3hBSkgyWGtmWlM3eEQ2cnRMdnBsWGYvRFVBM0V5Qys1RVJkclY5STV0UlBHS1hxdkNQcllXZkRWZVY3TmJJdng4bElzQVFBT3A5M2VZaTFtRVkwRTY3M3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ3OTYzCWZpbGU6cm9rLWFwcF8wLjEuNl94NjQtc2V0dXAuZXhlCitHSzhtbGJsTU5OeFE3WVVsRXRjWmwyOHZ5QzRWK3BkU0tnRjlNVmRkQlZoYktOM0k2UUpZaXlJOHVhTFlQMzdwMjBoTlZJZ2I4Qlp2STRKd2g4dkJnPT0K",
+      "url": "https://github.com/horashidev-netizen/rok-auto-releases/releases/download/v0.1.6/rok-app_0.1.6_x64-setup.exe"
     }
   }
-}
+} 
