@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "v0.1.8! Update with gpu intergrated, multitasking",
+  "version": "0.1.9",
+  "notes": "🚀 Bản cập nhật v0.1.9! Update with E disk with new features and bug fixes",
   "pub_date": "2026-09-11T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNDdYUEk2U3hBSklnS0o4MzJPUlJ0S3FiTEE3TnBBSmdFQ0lheGE1NHNkd21FdWVac2NoZHcyekxlSHVMYUhvc2xYbFJvQk5teTZMeWUveG5VNlB6YkxUSStxV3F4blFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM1OTA0CWZpbGU6cm9rLWFwcF8wLjEuOF94NjQtc2V0dXAuZXhlClM1NWtDSlpXTzRmeGhIMkFhczRxUkxPeGtHZ0YwNy9RQ2xKTU1BUklpdjhxb3BzY0lZMmM1b1A2OFoydG4vV1ZMejdLaVJQcTIzMUFJdkVycHlFSEFRPT0K",
-      "url": "https://github.com/horashidev-netizen/rok-auto-releases/releases/download/v0.1.8/rok-app_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNDdYUEk2U3hBSk45NlYwcXJDM010MnEvQWdFR3B3L052bE9FYndOSXNXdU9sUVFyazJVeHA0M21ZRzZqSGUzWDl6UTRqeTJVQnlZV2YwWW45cXVLRXZYZkR0VmRSNmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM3ODU5CWZpbGU6cm9rLWFwcF8wLjEuOV94NjQtc2V0dXAuZXhlCnZuR2w1cmtBaXJwTnRpMSt2ajRNbkZkbndpY2JibHh1d0E3RitDN05uRVdkZmNLRmtHNWswQkoxSGltTXlJOG5SWnJEZXh6MXdXclBobHl4aVdIMENBPT0K",
+      "url": "https://github.com/horashidev-netizen/rok-auto-releases/releases/download/v0.1.9/rok-app_0.1.9_x64-setup.exe"
     }
   }
 } 
