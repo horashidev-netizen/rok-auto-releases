@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "notes": "🚀 Bản cập nhật v0.1.9! Update with E disk with new features and bug fixes",
+  "version": "0.2.0",
+  "notes": "🚀 Update v0.2: Trị dứt điểm bệnh 'ngáo đá' của Bot!\n\n- Chữa mù màu OCR: Cạo sạch viền rác, fix lỗi bot bị lác mắt đọc 1/3 thành '131132'. Giờ nhận diện số đạo quân nét căng 100%, bao không kẹt acc.\n- Khởi động mượt hơn: Bỏ quả delay 1.5s vô duyên. Giờ tranh thủ nạp model YOLO vào VRAM ngay lúc game đang zoom out, vào là cày luôn không độ trễ.\n- Chống văng Bot: Trị dứt điểm mấy pha crash sảng (unwrap) lúc lướt map soi mỏ ngọc, code đã gọn và tối ưu bộ nhớ hơn.\n- Fix lỗi đóng gói: Sửa vụ build ra file .exe bị thiếu file model khiến bot bật lên bị mù.",
   "pub_date": "2026-09-11T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNDdYUEk2U3hBSk45NlYwcXJDM010MnEvQWdFR3B3L052bE9FYndOSXNXdU9sUVFyazJVeHA0M21ZRzZqSGUzWDl6UTRqeTJVQnlZV2YwWW45cXVLRXZYZkR0VmRSNmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTM3ODU5CWZpbGU6cm9rLWFwcF8wLjEuOV94NjQtc2V0dXAuZXhlCnZuR2w1cmtBaXJwTnRpMSt2ajRNbkZkbndpY2JibHh1d0E3RitDN05uRVdkZmNLRmtHNWswQkoxSGltTXlJOG5SWnJEZXh6MXdXclBobHl4aVdIMENBPT0K",
-      "url": "https://github.com/horashidev-netizen/rok-auto-releases/releases/download/v0.1.9/rok-app_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNDdYUEk2U3hBSkZaMUlwSzg2VXhmYkNmYS9PczA4VTA0blBqNFQ3d1U5TWRKbVI5SDcvdHVZbno2dGlwNU5aSjJxRVFCRjNPQUlYNlcwZDAvb0NiOTdLUmwzYmdNYmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDYzODY5CWZpbGU6cm9rLWFwcF8wLjEuN194NjQtc2V0dXAuZXhlCngwejlTZ0tkWDd1eThiOG41WU13SXJiNWt4cnNreXdkTktmQWNrTGNlVDJ3dkdTSFNEV3Mya1VMK3FSOVo3c1RMTisxcWlOY0wyQ01aK0MxZTJiMEN3PT0K",
+      "url": "https://github.com/horashidev-netizen/rok-auto-releases/releases/download/v0.2.0/rok-app_0.2.0_x64-setup.exe"
     }
   }
-} 
+}
